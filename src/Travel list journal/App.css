@@ -1,0 +1,25 @@
+.main{
+    height:auto;
+    width: 100%;
+    margin: .1rem .5rem;
+    padding: 1rem .5rem;
+    background-color: transparent !important;
+}
+.img-cont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius:10px !important;
+    height:auto;
+    border: 0px solid rgb(21, 2, 2) !important;
+}
+.google-maps-link{
+    font-size: .8rem !important;
+}
+.destination-img{
+    width: 100% !important;
+    border-radius:10px !important;
+    height:100% !important;
+    max-height:400px !important;
+    object-fit: cover !important;
+}
